@@ -22,7 +22,7 @@ I'm passionate about Full Stack Development, Java, Spring Boot, and Web Developm
 
 ## 💻 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,c,cpp,mysql,git,github,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,php,c,cs,mysql,postgres,git,github,vscode,visualstudio,idea,figma)](https://skillicons.dev)
 
 
 ## 📊 GitHub Stats
@@ -32,12 +32,6 @@ I'm passionate about Full Stack Development, Java, Spring Boot, and Web Developm
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshan-sandeepa\&layout=compact\&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dilshan-sandeepa\&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=dilshan-sandeepa\&theme=tokyonight)
 
 ---
 
