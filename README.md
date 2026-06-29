@@ -15,8 +15,8 @@ I'm passionate about Full Stack Development, Java, Spring Boot, and Web Developm
 
 ## 🌐 Connect with Me
 
-* LinkedIn: www.linkedin.com/in/dilshan-sandeepa-51523839a
-* Email: dilshansandeepa099@gmail.com
+* LinkedIn : www.linkedin.com/in/dilshan-sandeepa-51523839a
+* Email    : dilshansandeepa099@gmail.com
 
 ---
 
