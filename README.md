@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dilshan
 
-I'm passionate about Full Stack Development, Java, Spring Boot, and Web Development. I enjoy building real-world applications and continuously learning new technologies.
+I'm passionate about Java, Spring Boot, and Web Development. I enjoy building real-world applications and continuously learning new technologies.
 
 ---
 
