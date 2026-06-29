@@ -24,14 +24,6 @@ I'm passionate about Full Stack Development, Java, Spring Boot, and Web Developm
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,c,cpp,mysql,git,github,vscode,idea)](https://skillicons.dev)
 
-### Frameworks
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>](https://spring.io/projects/spring-boot)
-
-## 🗄️ Database
-
-[![Database](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
 
 ## 📊 GitHub Stats
 
